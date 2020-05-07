@@ -1,0 +1,242 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C6722DB1-FDE5-471C-85A1-B60337F8849C" platform="MtWeb" defaultW="1400" defaultH="1500" measureW="1400" measureH="1500" mobileScreenScale="0">
+  <controls controlCount="18">
+    <control controlID="80433C63-B47B-475C-B912-60A96C8AAC7A" controlTypeID="Shape" x="0" y="0" w="1400" h="140" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmTop]</borderMode>
+      <thickness>10</thickness>
+    </control>
+    <control controlID="5C2CF8D2-AA8B-4F96-AF8F-8C3CED9ABD54" controlTypeID="Tabs" x="176" y="92" w="1077" h="48" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BBD15832-0E1B-4C6E-891E-A260FBD2A0DF" linkType="ltPageLink" isApplyIncludePage="False" title="HOPME+PAGE">
+          <area shape="0" alt="" ID="{C301CC6D-BD3D-495F-82DE-20541126369D}" coords="(0,0,214.399993896484,48)"/>
+        </link>
+        <link targetPageID="A97BB4B5-A5BC-4BDD-BC5E-93A4C662993B" linkType="ltPageLink" isApplyIncludePage="False" title="COMMUNICATION">
+          <area shape="0" alt="" ID="{A6CAB42C-71F3-4349-9AAC-438A3885BD02}" coords="(215.399993896484,0,429.799987792969,48)"/>
+        </link>
+        <link targetPageID="EB04CF5B-BC71-4180-B5EC-127A2432F686" linkType="ltPageLink" isApplyIncludePage="False" title="WORLD+MAPS">
+          <area shape="0" alt="" ID="{5CE588FD-B9A0-4A26-9EC6-A03607293266}" coords="(430.799987792969,0,645.199951171875,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="DETAIL+DATAS">
+          <area shape="0" alt="" ID="{773780A1-9E38-4C2D-89A7-D8250616D6C9}" coords="(646.199951171875,0,860.599975585938,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="CONTACT++US">
+          <area shape="0" alt="" ID="{F2F1FDEF-5F6D-4B78-B43E-645286769055}" coords="(861.599975585938,0,1076,48)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>HOPME+PAGE%2CCOMMUNICATION%2CWORLD+MAPS%2CDETAIL+DATAS%2CCONTACT++US</text>
+      <textColor>4279966491</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>1</selectedIndex>
+      <selectedColor>4279966491</selectedColor>
+      <dividerPercentHeight>0</dividerPercentHeight>
+    </control>
+    <control controlID="D17CFE49-439D-4663-B940-354B7B94DBAB" controlTypeID="Icon" x="1284" y="31" w="22" h="22" zOrder="2">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+      </states>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62629</iconCode>
+      </icon>
+      <URL>6EE140726548992D82F763CCD21EF6A1.svg</URL>
+    </control>
+    <control controlID="E558D437-1894-4641-98D2-BC571039BCEB" controlTypeID="Icon" x="1337" y="31" w="22" h="22" zOrder="3">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+      </states>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="14EC5678-BD16-4092-BC01-062D96581958" linkType="ltPageLink" isApplyIncludePage="False" title="Account">
+          <area shape="0" alt="" ID="{2765F79B-98AC-47F8-8ADA-D2E1F4F7CD22}" coords="(0,0,22,22)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59648</iconCode>
+      </icon>
+      <URL>42CF9E031360EBC09387427849BF6328.svg</URL>
+    </control>
+    <control controlID="8FC0F738-C9FC-4D5C-AA07-7D98A512A879" controlTypeID="Spinner" x="1153" y="30" w="100" h="24" zOrder="4">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Position</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="66C43994-D707-4C2A-AC84-D7E134504C54" controlTypeID="Image" x="672" y="10" w="85" h="62" zOrder="5">
+      <caption>Logo</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BBD15832-0E1B-4C6E-891E-A260FBD2A0DF" linkType="ltPageLink" isApplyIncludePage="False" title="Haute+Page">
+          <area shape="0" alt="" ID="{B3A5661A-F9FF-4C42-9694-51896E5220C4}" coords="(0,0,85,62)"/>
+        </link>
+      </links>
+      <URL>04B9CA8EF9CE19533982E22F1C461F38.jpg</URL>
+    </control>
+    <control controlID="2CD39C22-87C3-4CAB-AB9E-8AC94A01977D" controlTypeID="Image" x="0" y="205" w="1400" h="916" zOrder="6">
+      <URL>99432277743B3E0FC7BF3BC624C2EEC5.png</URL>
+    </control>
+    <control controlID="05E3DD36-97E1-4433-BA78-C51DB9DA704C" controlTypeID="Shape" x="0" y="1400" w="1400" h="100" zOrder="7">
+      <color>4284900966</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <dashMode>SdDash</dashMode>
+      <borderMode>[bmRight,bmBottom]</borderMode>
+      <radius>8</radius>
+    </control>
+    <control controlID="9A92C9C0-0BA0-4C07-BC18-BBAA302564A9" controlTypeID="Image" x="672" y="1410" w="85" h="62" zOrder="8">
+      <URL>04B9CA8EF9CE19533982E22F1C461F38.jpg</URL>
+    </control>
+    <control controlID="627D939A-FDE8-42AD-A966-26E0E7A6C2FD" controlTypeID="Icon" x="916" y="462" w="24" h="24" zOrder="9">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62179</iconCode>
+      </icon>
+      <URL>327C0F72D17CEC1A7995546F899679F8.svg</URL>
+    </control>
+    <control controlID="5006530E-A9B3-44D3-88A4-9E3AADC016C8" controlTypeID="Shape" x="210" y="836" w="490" h="381" zOrder="10">
+      <color>338952191</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{D4C55D69-ED52-4B7F-B560-68CFC72295C1}" coords="(0,0,490,381)"/>
+          <events title="">
+            <event eventType="atDoubleClick" isChecked="False">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="5006530E-A9B3-44D3-88A4-9E3AADC016C8" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Move" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="MoveMode" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="FromX" value="0" varType="3" description=""/>
+                    <param name="FromY" value="0" varType="3" description=""/>
+                    <param name="ToX" value="0" varType="3" description=""/>
+                    <param name="ToY" value="0" varType="3" description=""/>
+                    <param name="ByX" value="200" varType="3" description=""/>
+                    <param name="ByY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                    <param name="MovePlaceVert" value="3" varType="3" description=""/>
+                    <param name="MovePlaceHori" value="1" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="B6F81921-C965-4A09-BF5D-160208A34905" controlTypeID="Line" x="320" y="481" w="604" h="357" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(302,179)</controlPoint>
+      <startPoint>(604,1)</startPoint>
+      <endPoint>(0,357)</endPoint>
+    </control>
+    <control controlID="9824C143-F49A-498B-A826-8E032A009F66" controlTypeID="TextArea" x="288" y="946" w="344" h="141" zOrder="12">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Come+on!+%0D%0AYou+can+beat+it!</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CAA10026-5A18-4DBD-9B2B-6733A865D716" controlTypeID="Button" x="243" y="1121" w="166" h="45" zOrder="13">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Chat+with+robot</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="D243E004-03E5-4DCF-BCA9-E229550EEA5D" controlTypeID="Button" x="510" y="1121" w="166" h="45" zOrder="14">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Yes!</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="B894C609-72E4-4561-B6D4-EEA0C4CBA0ED" controlTypeID="Icon" x="665" y="854" w="18" h="18" zOrder="15">
+      <color>4288782753</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{F4B13E1F-1A9A-4460-AEE5-192285DA2592}" coords="(0,0,18,18)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="B894C609-72E4-4561-B6D4-EEA0C4CBA0ED" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="1" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62167</iconCode>
+      </icon>
+      <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+    </control>
+    <control controlID="DA20A3FC-0A5D-4AF7-BFB9-8E3B0D4EE74E" controlTypeID="CheckBox" x="482" y="1183" w="194" h="22" zOrder="16">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>No+more+auto-applies</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7F17FF0A-822E-433E-9AD1-F59DB2DFB406" controlTypeID="Button" x="979" y="1276" w="380" h="85" zOrder="17">
+      <color>2412550451</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EB04CF5B-BC71-4180-B5EC-127A2432F686" linkType="ltPageLink" isApplyIncludePage="False" title="World+Maps">
+          <area shape="0" alt="" ID="{1CDDC8F7-553C-448D-986F-D76FC5E8635A}" coords="(0,0,380,85)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>See+Other+People's+Story</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
